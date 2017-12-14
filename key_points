@@ -1,0 +1,4 @@
+
+
+- use rcv1 for multi label documents. There are in total 103 topics.
+- run LDA and the 2 versions of NMF on the 
